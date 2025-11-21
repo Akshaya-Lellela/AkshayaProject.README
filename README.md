@@ -1,15 +1,33 @@
 # Project Title : FLYBY 
     - A Driver Booking Application
+
+## 📌 Project Summary
+- Cross-platform driver booking app built using Flutter.
+- Helps users find, request, and manage drivers.
+- Uses Firebase for auth, backend, and real-time data.
+- Google Maps integrated for location and routing features.
+
+## 📌 My Role
+- Worked as a Flutter developer in a 3-member team.
+- Built major modules and core workflows.
+
+## 📌 Key Contributions
+- Implemented authentication & authorization flow.
+- Integrated Firebase Firestore.
+- Managed Google Maps APIs & location logic.
+- Developed business-logic screens with correct navigation.
+- Used Git/GitHub for version control.
+- Tested & fixed driver booking flow.
     
 (High-level documentation only — source code is private)
 
-🚀 Overview
+# 🚀 Overview
 
 This is a production-level full-stack Driver Booking & Management Application designed to streamline the process of booking on-demand drivers.
 The system supports real-time driver assignment, booking workflow management, notifications, and a smooth user experience tailored for operational use.
 This README provides a high-level functional and technical summary of the project without exposing any business-sensitive implementation details.
 
-🎯 Purpose of the Application
+# 🎯 Purpose of the Application
 
 The platform enables:
 
@@ -38,7 +56,7 @@ The platform enables:
  - Overview of bookings
  - Ability to monitor operational flow
 
-🛠️ Tech Stack (High-Level, Safe Version)
+# 🛠️ Tech Stack (High-Level, Safe Version)
 This project is implemented using the following technologies:
 
 Frontend
@@ -57,8 +75,7 @@ Backend
  - Git & GitHub
  - Google Maps SDK (if used for location pickers)
  - Razorpay / Stripe (when we add payments later)
-
-   
+  
 Deployment
 
  - Firebase / Other hosting provider
@@ -71,7 +88,7 @@ This application consists of the following logical components:
  - Cloud Backend – handles authentication, data, and notifications
  - Real-time Updates – booking status and operational flow
 
-👨‍💻 My Role & Responsibilities
+# 👨‍💻 My Role & Responsibilities
 
 I contributed to the following areas of the project:
  - Developed core application flows & UI
@@ -89,13 +106,13 @@ I contributed to the following areas of the project:
 - Source code access can be provided to verified employers upon request.
   Please contact me at: @akshayalellela.work@gmail.com
   
-📩 Contact
+# 📩 Contact
 
  Name: Akshaya Lellela
  Email: akshayalellela.work@gmail.com
  GitHub: https://github.com/Akshaya-Lellela/AkshayaProject.README
  
-🌟 Future Enhancements
+# 🌟 Future Enhancements
 - In-app payments (Razorpay / Stripe)
  - Real-time driver tracking using Google Maps
  - Driver side app
