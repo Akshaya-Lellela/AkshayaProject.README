@@ -2,10 +2,7 @@
     - A Driver Booking Application
 
 ## 📌 Project Summary
-- Cross-platform driver booking app built using Flutter.
-- Helps users find, request, and manage drivers.
-- Uses Firebase for auth, backend, and real-time data.
-- Google Maps integrated for location and routing features.
+- Built a Cross-Platform Driver booking application using Flutter to simplify and streamline the process of finding and booking professional drivers
 
 ## 📌 My Role
 - Worked as a Flutter developer in a 3-member team.
