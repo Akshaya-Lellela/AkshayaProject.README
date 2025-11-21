@@ -100,14 +100,16 @@ I contributed to the following areas of the project:
  - The source code, environment configuration, and application deployment are private due to business, security, and confidentiality constraints.
    Only high-level project documentation is provided publicly.
 
-- Source code access can be provided to verified employers upon request.
+- Source code access will be showacased to employers upon screenshare.
   Please contact me at: @akshayalellela.work@gmail.com
   
 # 📩 Contact
 
  Name: Akshaya Lellela
+ 
  Email: akshayalellela.work@gmail.com
- GitHub: https://github.com/Akshaya-Lellela/AkshayaProject.README
+ 
+ GitHub: 
  
 # 🌟 Future Enhancements
 - In-app payments (Razorpay / Stripe)
@@ -118,13 +120,3 @@ I contributed to the following areas of the project:
  - Subscription plans for long-term driver bookings
 
  
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
