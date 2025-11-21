@@ -109,7 +109,7 @@ I contributed to the following areas of the project:
  
  Email: akshayalellela.work@gmail.com
  
- GitHub: https://github.com/Akshaya-Lellela/Akshaya-Lellela.github.io/blob/main/index.md
+ GitHub: [Akshaya-Portfolio](https://github.com/Akshaya-Lellela/Akshaya-Lellela.github.io/blob/main/index.md)
  
 # 🌟 Future Enhancements
 - In-app payments (Razorpay / Stripe)
