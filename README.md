@@ -26,7 +26,7 @@ This README provides a high-level functional and technical summary of the projec
 
 # 🎯 Purpose of the Application
 
-The platform enables:
+⭐ The platform enables:
 
  - Users / customers to request drivers
  - Automated/assisted driver assignment
@@ -53,27 +53,27 @@ The platform enables:
  - Overview of bookings
  - Ability to monitor operational flow
 
-# 🛠️ Tech Stack (High-Level, Safe Version)
+# 📱 Tech Stack (High-Level, Safe Version)
 This project is implemented using the following technologies:
 
-Frontend
+💻 Frontend
  - Flutter
  - Dart
  - Android & iOS support
  - Flutter Widgets
  - Material Design Widgets
 
-Backend
+🗄️ Backend
 
  - Firebase Authentication – secure user sign-in
  - Cloud Firestore – real-time database
 
- Other Tools
+ 🛠️ Other Tools
  - Git & GitHub
  - Google Maps SDK (if used for location pickers)
  - Razorpay / Stripe (when we add payments later)
   
-Deployment
+🔗 Deployment
 
  - Firebase / Other hosting provider
 
