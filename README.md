@@ -101,7 +101,7 @@ I contributed to the following areas of the project:
    Only high-level project documentation is provided publicly.
 
 - Source code access will be showacased to employers upon screenshare.
-  Please contact me at: @akshayalellela.work@gmail.com
+- Please contact me at: @akshayalellela.work@gmail.com
   
 # 📩 Contact
 
@@ -109,7 +109,7 @@ I contributed to the following areas of the project:
  
  Email: akshayalellela.work@gmail.com
  
- GitHub: 
+ GitHub: https://github.com/Akshaya-Lellela/Akshaya-Lellela.github.io/blob/main/index.md
  
 # 🌟 Future Enhancements
 - In-app payments (Razorpay / Stripe)
